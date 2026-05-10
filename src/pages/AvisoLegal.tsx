@@ -24,46 +24,49 @@ export default function AvisoLegal() {
           <section>
             <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">1. Datos identificativos</h2>
             <p className="mb-4">
-              En cumplimiento de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico, se informa de que el titular de este sitio web es:
+              En cumplimiento del deber de información recogido en el artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y del Comercio Electrónico (LSSI-CE), a continuación se reflejan los siguientes datos:
             </p>
             <ul className="list-disc pl-5 space-y-2">
               <li><strong>Titular:</strong> BALANCE Massage Studio</li>
-              <li><strong>Nombre comercial:</strong> BALANCE Massage Studio</li>
               <li><strong>Teléfono:</strong> +34 664 53 42 45</li>
               <li><strong>Domicilio:</strong> Urb. El Bosque, C. Ursulinas, 6, 11405 Jerez de la Frontera, Cádiz</li>
             </ul>
           </section>
 
           <section>
-            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">2. Objeto del sitio web</h2>
+            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">2. Usuarios</h2>
             <p className="mb-4">
-              El presente sitio web tiene por finalidad ofrecer información sobre BALANCE Massage Studio, sus servicios de masaje, bienestar, recuperación muscular, descarga deportiva, drenaje linfático, presoterapia y otros tratamientos relacionados, así como facilitar el contacto y la solicitud de citas.
-            </p>
-            <p>
-              La información contenida en esta web tiene carácter meramente informativo y no sustituye el diagnóstico, tratamiento o seguimiento médico realizado por profesionales sanitarios cuando sea necesario.
+              El acceso y/o uso de este portal atribuye la condición de USUARIO, que acepta, desde dicho acceso y/o uso, las Condiciones Generales de Uso aquí reflejadas. Las citadas Condiciones serán de aplicación independientemente de las Condiciones Generales de Contratación que en su caso resulten de obligado cumplimiento.
             </p>
           </section>
 
           <section>
-            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">3. Condiciones de uso</h2>
+            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">3. Uso del portal</h2>
             <p className="mb-4">
-              El acceso y uso de este sitio web atribuye la condición de usuario e implica la aceptación del presente Aviso Legal.
+              Este sitio web proporciona el acceso a multitud de informaciones, servicios, programas o datos (en adelante, "los contenidos") en Internet pertenecientes a BALANCE Massage Studio o a sus licenciantes a los que el USUARIO pueda tener acceso.
             </p>
             <p className="mb-4">
-              El usuario se compromete a utilizar la web de forma lícita, diligente y respetuosa, absteniéndose de realizar cualquier actuación que pueda dañar, inutilizar, sobrecargar o deteriorar el sitio web, sus contenidos o los sistemas informáticos del titular.
-            </p>
-            <p>
-              Queda prohibido utilizar la web con fines ilícitos, fraudulentos, lesivos de derechos de terceros o contrarios a la buena fe.
+              El USUARIO asume la responsabilidad del uso del portal. Dicha responsabilidad se extiende al registro que fuese necesario para acceder a determinados servicios o contenidos. En dicho registro el USUARIO será responsable de aportar información veraz y lícita.
             </p>
           </section>
 
           <section>
-            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">4. Propiedad intelectual e industrial</h2>
+            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">4. Protección de datos</h2>
             <p className="mb-4">
-              Todos los contenidos de esta web, incluyendo textos, imágenes, fotografías, diseño gráfico, logotipo, nombre comercial, estructura, código, iconos, vídeos y demás elementos, son titularidad de BALANCE Massage Studio o de terceros que han autorizado su uso.
+              BALANCE Massage Studio cumple con las directrices del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016 (RGPD), y la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD), velando por asegurar un correcto uso y tratamiento de los datos personales del usuario.
             </p>
             <p>
-              Queda prohibida la reproducción, distribución, comunicación pública, transformación o cualquier otra forma de explotación de dichos contenidos sin autorización previa y expresa del titular.
+              Para más información, consulte nuestra <Link to="/privacidad" className="underline hover:opacity-100">Política de Privacidad</Link>.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">5. Propiedad intelectual e industrial</h2>
+            <p className="mb-4">
+              BALANCE Massage Studio por sí o como cesionaria, es titular de todos los derechos de propiedad intelectual e industrial de su página web, así como de los elementos contenidos en la misma (a título enunciativo, imágenes, sonido, audio, vídeo, software o textos; marcas o logotipos, combinaciones de colores, estructura y diseño, selección de materiales usados, programas de ordenador necesarios para su funcionamiento, acceso y uso, etc.).
+            </p>
+            <p>
+              Todos los derechos reservados. En virtud de lo dispuesto en los artículos 8 y 32.1, párrafo segundo, de la Ley de Propiedad Intelectual, quedan expresamente prohibidas la reproducción, la distribución y la comunicación pública, incluida su modalidad de puesta a disposición, de la totalidad o parte de los contenidos de esta página web, con fines comerciales, en cualquier soporte y por cualquier medio técnico, sin la autorización de BALANCE Massage Studio.
             </p>
           </section>
 

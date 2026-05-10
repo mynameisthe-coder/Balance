@@ -24,73 +24,71 @@ export default function Privacidad() {
         <div className="space-y-12 font-light leading-relaxed text-sm md:text-base opacity-80">
           
           <section>
-            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">1. Responsable del tratamiento</h2>
+            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">1. Información al usuario</h2>
+            <p className="mb-4">
+              En BALANCE Massage Studio, como responsable de este sitio web y de conformidad con lo dispuesto en el Reglamento (UE) 2016/679 de 27 de abril de 2016 (RGPD) relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD), le informamos de que hemos implementado las medidas de seguridad necesarias, de índole técnica y organizativas, para garantizar y proteger la confidencialidad, integridad y disponibilidad de los datos introducidos.
+            </p>
+          </section>
+
+          <section>
+            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">2. Responsable del tratamiento</h2>
             <p className="mb-4">
               El responsable del tratamiento de los datos personales recogidos a través de este sitio web es:
             </p>
             <ul className="list-disc pl-5 space-y-2">
               <li><strong>Titular:</strong> BALANCE Massage Studio</li>
-              <li><strong>Nombre comercial:</strong> BALANCE Massage Studio</li>
               <li><strong>Teléfono:</strong> +34 664 53 42 45</li>
               <li><strong>Domicilio:</strong> Urb. El Bosque, C. Ursulinas, 6, 11405 Jerez de la Frontera, Cádiz</li>
             </ul>
           </section>
 
           <section>
-            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">2. Datos personales que podemos tratar</h2>
-            <p className="mb-4">BALANCE Massage Studio podrá tratar los siguientes datos personales:</p>
+            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">3. Finalidad del tratamiento</h2>
+            <p className="mb-4">
+              Sus datos personales serán utilizados para las siguientes finalidades:
+            </p>
             <ul className="list-disc pl-5 space-y-2 mb-4">
-              <li>Datos identificativos: nombre y apellidos.</li>
-              <li>Datos de contacto: teléfono, correo electrónico y, en su caso, usuario de redes sociales.</li>
-              <li>Datos relacionados con la cita: fecha, hora, servicio solicitado y preferencias de atención.</li>
-              <li>Datos de comunicación: mensajes enviados por formulario, WhatsApp, correo electrónico o redes sociales.</li>
-              <li>Datos de facturación: cuando sean necesarios para emitir factura.</li>
-              <li>Datos técnicos: dirección IP, identificadores de cookies, navegador, dispositivo y datos de navegación, cuando proceda.</li>
-              <li>Datos relacionados con molestias, lesiones, estado físico o necesidades concretas del servicio, únicamente cuando el usuario los facilite voluntariamente y sean necesarios para adaptar la sesión.</li>
-            </ul>
-            <p>
-              En caso de que el usuario facilite información relativa a su salud, molestias, lesiones, embarazo, medicación, limitaciones físicas o cualquier otra circunstancia similar, dicha información será tratada con especial confidencialidad y únicamente para adaptar correctamente el servicio solicitado.
-            </p>
-          </section>
-
-          <section>
-            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">3. Finalidades del tratamiento</h2>
-            <p className="mb-4">Los datos personales podrán tratarse para las siguientes finalidades:</p>
-            <ul className="list-disc pl-5 space-y-2">
-              <li>Gestionar solicitudes de información.</li>
-              <li>Gestionar reservas, citas, cambios o cancelaciones.</li>
-              <li>Prestar correctamente los servicios solicitados.</li>
-              <li>Adaptar el tratamiento a las necesidades indicadas por el cliente.</li>
-              <li>Enviar confirmaciones, recordatorios o comunicaciones relacionadas con la cita.</li>
-              <li>Gestionar pagos, facturación y obligaciones administrativas.</li>
-              <li>Atender consultas, reclamaciones o incidencias.</li>
-              <li>Enviar comunicaciones comerciales, promociones o novedades, solo si el usuario ha prestado su consentimiento.</li>
-              <li>Gestionar reseñas, testimonios o imágenes, únicamente cuando exista autorización suficiente.</li>
-              <li>Analizar el uso de la web mediante cookies o tecnologías similares, solo cuando el usuario haya prestado su consentimiento cuando sea necesario.</li>
+              <li>Gestionar el envío de la información que nos soliciten.</li>
+              <li>Gestionar y confirmar sus citas y reservas de masajes y tratamientos.</li>
+              <li>Facilitar a los interesados ofertas de productos y servicios de su interés (solo si existe consentimiento expreso).</li>
+              <li>Garantizar que el servicio prestado es seguro y adecuado a su estado físico (tratamiento de datos de salud bajo consentimiento).</li>
             </ul>
           </section>
 
           <section>
-            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">4. Base jurídica del tratamiento</h2>
-            <p className="mb-4">Las bases jurídicas que permiten el tratamiento de los datos son:</p>
-            <ul className="list-disc pl-5 space-y-2">
-              <li><strong>Ejecución de medidas precontractuales o contractuales:</strong> para gestionar citas, solicitudes de información y prestación de servicios.</li>
-              <li><strong>Consentimiento del usuario:</strong> para el envío de comunicaciones comerciales, uso de cookies no técnicas, publicación de testimonios o tratamiento de información especialmente sensible cuando proceda.</li>
-              <li><strong>Cumplimiento de obligaciones legales:</strong> para obligaciones fiscales, contables, administrativas o de atención a requerimientos legales.</li>
-              <li><strong>Interés legítimo:</strong> para mantener la seguridad de la web, prevenir abusos, atender incidencias y conservar comunicaciones necesarias para la defensa de derechos o reclamaciones.</li>
-            </ul>
-          </section>
-
-          <section>
-            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">5. Datos relativos a la salud o estado físico</h2>
+            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">4. Legitimación del tratamiento</h2>
             <p className="mb-4">
-              Si el usuario comunica información sobre dolores, lesiones, patologías, embarazo, medicación, limitaciones físicas u otras circunstancias similares, debe hacerlo solo cuando sea necesario para adaptar el servicio solicitado.
+              La base legal para el tratamiento de su datos es:
+            </p>
+            <ul className="list-disc pl-5 space-y-2">
+              <li><strong>El consentimiento del interesado:</strong> Art. 6.1.a del RGPD y Art. 9.2.a del RGPD para datos de salud.</li>
+              <li><strong>Ejecución de un contrato o medidas precontractuales:</strong> Art. 6.1.b del RGPD.</li>
+              <li><strong>Cumplimiento de obligaciones legales:</strong> Art. 6.1.c del RGPD.</li>
+            </ul>
+          </section>
+
+          <section>
+            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">5. Derechos de los interesados</h2>
+            <p className="mb-4">
+              Cualquier persona tiene derecho a obtener confirmación sobre si en BALANCE Massage Studio estamos tratando datos personales que les conciernan, o no. Las personas interesadas tienen derecho a:
+            </p>
+            <ul className="list-disc pl-5 space-y-2 mb-4">
+              <li><strong>Acceso:</strong> conocer qué datos se están tratando.</li>
+              <li><strong>Rectificación:</strong> solicitar la corrección de datos inexactos.</li>
+              <li><strong>Supresión (Derecho al Olvido):</strong> solicitar la eliminación cuando ya no sean necesarios.</li>
+              <li><strong>Limitación del tratamiento:</strong> solicitar que se limite el uso de sus datos en casos específicos.</li>
+              <li><strong>Portabilidad:</strong> recibir sus datos en un formato estructurado y de uso común.</li>
+              <li><strong>Oposición:</strong> oponerse al tratamiento de sus datos.</li>
+              <li><strong>Retirada del consentimiento:</strong> derecho a retirar el consentimiento en cualquier momento.</li>
+            </ul>
+            <p className="mb-4">
+              Para ejercer estos derechos, el usuario puede contactar con BALANCE Massage Studio mediante comunicación dirigida al domicilio Urb. El Bosque, C. Ursulinas, 6, 11405 Jerez de la Frontera, Cádiz, o a través del teléfono +34 664 53 42 45.
             </p>
             <p className="mb-4">
-              BALANCE Massage Studio tratará estos datos únicamente para valorar la idoneidad del servicio, adaptar la sesión y garantizar una atención adecuada.
+              La solicitud deberá indicar el derecho que se desea ejercer y permitir acreditar la identidad del solicitante cuando sea necesario (por ejemplo, mediante copia del DNI).
             </p>
             <p>
-              El usuario podrá retirar su consentimiento en cualquier momento, sin que ello afecte a la licitud del tratamiento realizado previamente.
+              Asimismo, el usuario tiene derecho a presentar una reclamación ante la Agencia Española de Protección de Datos (AEPD) a través de su sede electrónica si considera que el tratamiento de sus datos no se ajusta a la normativa vigente.
             </p>
           </section>
 
@@ -139,30 +137,7 @@ export default function Privacidad() {
           </section>
 
           <section>
-            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">9. Derechos de los usuarios</h2>
-            <p className="mb-4">El usuario puede ejercer los siguientes derechos:</p>
-            <ul className="list-disc pl-5 space-y-2 mb-4">
-              <li>Derecho de acceso.</li>
-              <li>Derecho de rectificación.</li>
-              <li>Derecho de supresión.</li>
-              <li>Derecho de oposición.</li>
-              <li>Derecho a la limitación del tratamiento.</li>
-              <li>Derecho a la portabilidad de los datos.</li>
-              <li>Derecho a retirar el consentimiento en cualquier momento.</li>
-            </ul>
-            <p className="mb-4">
-              Para ejercer estos derechos, el usuario puede contactar con BALANCE Massage Studio mediante comunicación dirigida al domicilio Urb. El Bosque, C. Ursulinas, 6, 11405 Jerez de la Frontera, Cádiz, o a través del teléfono +34 664 53 42 45.
-            </p>
-            <p className="mb-4">
-              La solicitud deberá indicar el derecho que se desea ejercer y permitir acreditar la identidad del solicitante cuando sea necesario.
-            </p>
-            <p>
-              Asimismo, el usuario puede presentar una reclamación ante la Agencia Española de Protección de Datos si considera que el tratamiento de sus datos no se ajusta a la normativa vigente.
-            </p>
-          </section>
-
-          <section>
-            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">10. Seguridad de los datos</h2>
+            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">9. Seguridad de los datos</h2>
             <p className="mb-4">
               BALANCE Massage Studio aplicará medidas técnicas y organizativas adecuadas para proteger los datos personales frente a pérdida, acceso no autorizado, alteración, divulgación o destrucción.
             </p>
@@ -172,7 +147,7 @@ export default function Privacidad() {
           </section>
 
           <section>
-            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">11. Menores de edad</h2>
+            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">10. Menores de edad</h2>
             <p className="mb-4">
               Los servicios de BALANCE Massage Studio no están dirigidos a menores de 14 años a través de la web.
             </p>
@@ -182,7 +157,7 @@ export default function Privacidad() {
           </section>
 
           <section>
-            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">12. Redes sociales</h2>
+            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">11. Redes sociales</h2>
             <p className="mb-4">
               BALANCE Massage Studio puede tener presencia en redes sociales como Instagram, Google Business Profile u otras plataformas.
             </p>
@@ -192,14 +167,14 @@ export default function Privacidad() {
           </section>
 
           <section>
-            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">13. Reseñas de Google</h2>
+            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">12. Reseñas de Google</h2>
             <p>
               Las reseñas mostradas proceden de opiniones publicadas públicamente por clientes en Google. BALANCE Massage Studio podrá mostrar extractos de dichas reseñas con fines informativos y de reputación profesional. Si alguna persona desea solicitar la retirada o modificación de una reseña mostrada en esta web, puede contactar con BALANCE Massage Studio.
             </p>
           </section>
 
           <section>
-            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">14. Modificaciones de la Política de Privacidad</h2>
+            <h2 className="text-lg font-medium tracking-widest uppercase mb-4 opacity-100">13. Modificaciones de la Política de Privacidad</h2>
             <p className="mb-4">
               BALANCE Massage Studio podrá modificar esta Política de Privacidad para adaptarla a cambios legales, técnicos u organizativos.
             </p>
